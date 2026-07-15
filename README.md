@@ -335,7 +335,7 @@ npm run dev
 
 | Dashboard / Landing Page | Exploded View |
 |:---:|:---:|
-| ![Dashboard / Landing Page](public/landing.png) | ![Exploded View](public/exploded.png) |
+| ![Landing Page](public/landing.png) | ![Exploded View](public/exploded.png) |
 
 ---
 
